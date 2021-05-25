@@ -14,7 +14,7 @@ Faça a instalação do software seguindo as opções padrão.
 
 Se essa é a primeira vez que você está usando a Unity, faça o login no Unity Hub e ative a licença de uso.
 
-Não se preocupe, a Unity é gratuita para a maioria das pessoas, com exceção das empresas que faturaram mais do que $100.000 dólares nos últimos 12 anos.
+Não se preocupe, a Unity é gratuita para a maioria das pessoas, com exceção das empresas que faturaram mais do que $100.000 dólares nos últimos 12 meses.
 
 Com o login feito e licença ativada, procure pela opção `Installs`, localizada no meu esquerdo do Unity Hub.
 
