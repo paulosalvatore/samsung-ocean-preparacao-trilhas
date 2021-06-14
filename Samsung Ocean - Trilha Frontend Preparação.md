@@ -42,6 +42,8 @@ Se estiver no Linux ou no Mac, clique com o direito na pasta e selecione a opç�
 
 No terminal, digite o seguinte comando: `npx create-react-app primeira_aplicacao`, sendo que você pode substituir `primeira_aplicacao` pelo nome que quiser.
 
+**ATENÇÃO:** o nome da aplicação **não pode** conter espaços, caracteres especiais, acentos. Também é recomendado que utilize traços `-` em vez de underline `_`.
+
 ![Create React App](imagens/Create_React_App.png)
 
 Ao executar, isso criará uma pasta com os arquivos iniciais do seu projeto e instalar todos os pacotes necessários.
