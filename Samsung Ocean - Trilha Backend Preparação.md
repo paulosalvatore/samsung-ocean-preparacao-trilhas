@@ -49,7 +49,7 @@ Para confirmar se o MongoDB está funcionando, abra o MongoDB Compass e, após a
 
 Com isso, a tela de `Databases` deve aparecer.
 
-![Databases no MongoDB](imagens\MongoDB_Database.png)
+![Databases no MongoDB](imagens/MongoDB_Database.png)
 
 ## Conclusão
 
